@@ -13,6 +13,10 @@ This work was done during my summer Outreachy internship in Open Innovation Team
 
 ## Dependencies
 
+### Kibana
+### Logstash
+### Elasticsearch
+
 ## Environment Setup
 
 ## Presentation 
