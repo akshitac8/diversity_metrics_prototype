@@ -4,8 +4,7 @@ This work was done during my summer Outreachy internship in Open Innovation Team
 
 ## Contents
 1. [Introduction](#introduction)
-2. [Dependencies](#dependencies)
-3. [Installation](#installation)
+2. [Installation](#installation)
 4. [Presentation](#presentation)
 5. [Screenshots](#screenshots)
 
@@ -46,7 +45,6 @@ Kibana makes it easy to understand large volumes of data. Its simple, browser-ba
 
 Setting up Kibana is a snap. You can install Kibana and start exploring your Elasticsearch indices in minutes — no code, no additional infrastructure required
 
-### Dependencies
 ## Installation
 Installation commands for ELK on Mac-OS using brew install.
 
