@@ -11,6 +11,10 @@ This work was done during my summer Outreachy internship in Open Innovation Team
 ## Introduction
 ### Diversity and Inclusion
 
+The project helps organisation and contributors to self-evaluate, find new projects and maintain diversity and inclusion.
+Everybody wants to learn new things but they want to find the right community.
+With this tool we are able to evaluate on basics of certain quantitative metrics which help the projects grow and keep the balance.
+
 ### Elasticsearch
 Elasticsearch is a distributed RESTful search engine built for the cloud. Features include:
 
