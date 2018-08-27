@@ -97,5 +97,3 @@ The work was presented at the Monthly Open Innovation Team Meeting. The slides c
 [3][Brief Introduction to kibana](https://www.elastic.co/guide/en/kibana/current/introduction.html)
 
 [4][Guide to Installation](https://medium.com/@pablo_ezequiel/installing-elk-stack-on-osx-74b132ad1498)
-
-## License
