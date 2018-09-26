@@ -3,10 +3,13 @@
 This work was done during my summer Outreachy internship in Open Innovation Team, Mozilla with Emma Irwin as my Mentor.
 
 ## Contents
-1. [Introduction](#introduction)
-2. [Installation](#installation)
-4. [Presentation](#presentation)
-5. [Screenshots](#screenshots)
+1. [Screenshots](#screenshots) 
+2. [Introduction](#introduction)
+3. [Installation](#installation)
+4. [Presentation](#presentation) 
+
+## Screenshots
+<img src ="https://github.com/akshitac8/diversity_metrics_prototype/blob/master/Prototype-Images/Dashboard.png"></img>
 
 ## Introduction
 ### Diversity and Inclusion
@@ -85,9 +88,6 @@ $ brew info logstash
 
 ## Presentation 
 The work was presented at the Monthly Open Innovation Team Meeting. The slides can be be found [here](https://docs.google.com/presentation/d/1h4iVZrPmYFp3CSzT-wq8gKCAhw2utjlwTCzxDASGgcU/edit?usp=sharing)
-
-## Screenshots
-<img src ="https://github.com/akshitac8/diversity_metrics_prototype/blob/master/Prototype-Images/Dashboard.png"></img>
 
 ## References
 [1][Brief Introduction to Elasticsearch](https://github.com/elastic/elasticsearch)
